@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
+| [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -63,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
