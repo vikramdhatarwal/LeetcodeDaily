@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -95,4 +97,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0402-remove-k-digits) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
