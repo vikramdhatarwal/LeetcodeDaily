@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 ## Depth-First Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
