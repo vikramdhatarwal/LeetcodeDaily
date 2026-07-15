@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -139,5 +142,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
