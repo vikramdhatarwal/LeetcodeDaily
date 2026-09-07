@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1020-number-of-enclaves) |
 ## Stack
@@ -183,11 +186,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [1020-number-of-enclaves](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
