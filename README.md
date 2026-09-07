@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0735-asteroid-collision](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0085-maximal-rectangle) |
+| [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 ## Union-Find
 |  |
 | ------- |
