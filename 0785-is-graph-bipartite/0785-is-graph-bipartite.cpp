@@ -10,13 +10,7 @@ public:
             s.pop();
             for(int x : graph[curr_node]){
                 if(color[x]==-1){
-                    if(curr_col==0){
-                        
-                        color[x]=1;
-                    }
-                    else{
-                        color[x]=0;
-                    }
+                    color[x]= 1-curr_col;
                     s.push(x);
                 }
                 else{
