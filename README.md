@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
+| [0086-partition-list](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0086-partition-list) |
 ## Simulation
 |  |
 | ------- |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0802-find-eventual-safe-states) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
