@@ -2,7 +2,5 @@
 select name as Customers 
 from Customers
 where id not in (
-    select c.id from Customers c
-    inner join Orders o
-    on c.id=o.customerId
+    select o.customerId from Orders as o
 )
