@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
 | ------- |
