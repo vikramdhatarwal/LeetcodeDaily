@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0930-binary-subarrays-with-sum) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1068-product-sales-analysis-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
