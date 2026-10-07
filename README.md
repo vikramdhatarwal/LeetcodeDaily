@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0125-valid-palindrome) |
 ## Simulation
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
