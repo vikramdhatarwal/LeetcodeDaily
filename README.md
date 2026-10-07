@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
+| [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0424-longest-repeating-character-replacement) |
@@ -266,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
