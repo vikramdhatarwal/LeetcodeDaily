@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 ## String
 |  |
