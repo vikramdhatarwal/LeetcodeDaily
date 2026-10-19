@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
