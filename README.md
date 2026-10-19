@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1929-concatenation-of-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3903-smallest-stable-index-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 ## Backtracking
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Divide and Conquer
 |  |
