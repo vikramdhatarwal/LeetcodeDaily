@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String
 |  |
 | ------- |
