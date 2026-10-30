@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Hash Table
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2409-count-days-spent-together](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2409-count-days-spent-together) |
 | [3886-sum-of-sortable-integers](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Binary Tree
 |  |
 | ------- |
