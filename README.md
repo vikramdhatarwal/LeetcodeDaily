@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0216-combination-sum-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0076-minimum-window-substring) |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0242-valid-anagram) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -386,4 +389,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0394-decode-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
