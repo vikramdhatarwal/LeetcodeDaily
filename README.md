@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1020-number-of-enclaves) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0735-asteroid-collision) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
