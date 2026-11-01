@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0542-01-matrix) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
