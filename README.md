@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2409-count-days-spent-together](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/vikramdhatarwal/LeetcodeDaily/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
